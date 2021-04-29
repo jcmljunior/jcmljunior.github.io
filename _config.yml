@@ -1,0 +1,14 @@
+title: Your awesome title
+email: jcmljunior@gmail.com
+description:
+baseurl: ""
+url: ""
+twitter_username: jcmljunior
+github_username:  jcmljunior
+#theme: minima
+plugins:
+  - jekyll-feed
+
+sass:
+    sass_dir: assets
+    style: compressed
